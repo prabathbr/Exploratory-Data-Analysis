@@ -3,7 +3,7 @@ Exploratory Data Analysis using Python
 
 ## Objectives
 
-1. To study a wide variety of Exploratory Data Analysis techniques using Python and related libraries.
+To study a wide variety of Exploratory Data Analysis techniques using Python and related libraries.
 
 ## License
 
