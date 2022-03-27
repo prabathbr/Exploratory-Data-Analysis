@@ -30,5 +30,7 @@ Latest tested versions are mentioned inside the brackets along with the library 
 5. Numpy (1.22.0)
 6. Pandas (1.3.4)
 8. Matplotlib  (3.5.0)
-10. Scikit-learn (1.0.1)
 11. Plotly (5.4.0)
+12. Folium
+13. Geocoder
+14. Humanize
