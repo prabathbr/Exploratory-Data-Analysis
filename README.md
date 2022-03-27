@@ -17,9 +17,9 @@ DataDisca Pty Ltd, Melbourne, Australia
 
 ## Dataset
 
-You can use any dataset for your analysis, but you have to change code as necessary to match with the dataset.
-[Avacado Prices](https://www.kaggle.com/datasets/neuromusic/avocado-prices) dataset from Kaggle is used for the analysis strictly used only for learning purpose, and it is not shared under this repositary. 
-Please refer the Kaggle page if you would like to use same dataset for dataset files and license information.
+You can use any dataset for the analysis, but you have to change code as necessary to match with the dataset.
+[Avacado Prices](https://www.kaggle.com/datasets/neuromusic/avocado-prices) dataset from Kaggle is used in the analysis, is strictly used only for the learning purpose, and dataset file is not shared under this repositary. 
+If you would like to use same dataset, please refer to the [Kaggle page](https://www.kaggle.com/datasets/neuromusic/avocado-prices) for dataset files and license information.
 
 ## Prerequisites
 
