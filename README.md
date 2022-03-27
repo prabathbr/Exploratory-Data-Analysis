@@ -34,3 +34,4 @@ Latest tested versions are mentioned inside the brackets along with the library 
 12. Folium (0.12.1.post1)
 13. Geocoder (1.38.1)
 14. Humanize (4.0.0)
+15. Seaborn (0.11.2)
